@@ -1,0 +1,13 @@
+{
+  "name": "盛小天飞车",
+  "short_name": "盛小天飞车",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0d2350",
+  "theme_color": "#0d2350",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
